@@ -1,0 +1,20 @@
+{
+    "name": "valeryan/root1",
+    "description": "Root One",
+    "authors": [
+        {
+            "name": "Samuel Hilson",
+            "email": "samrhilson@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "hydrawiki/hydrawiki-codesniffer": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root1\\": "src/"
+        }
+    }
+}

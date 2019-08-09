@@ -1,0 +1,20 @@
+{
+    "name": "valeryan/root1",
+    "description": "Root One",
+    "authors": [
+        {
+            "name": "Samuel Hilson",
+            "email": "samrhilson@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root1\\": "src/"
+        }
+    }
+}

@@ -5,7 +5,11 @@
 		},
 		{
 			"path": "root2"
+		},
+		{
+			"path": "root3"
 		}
 	],
-	"settings": {}
+	"settings": {
+	}
 }

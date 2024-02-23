@@ -1,6 +1,6 @@
 {
-    "name": "valeryan/root1",
-    "description": "Root One",
+    "name": "valeryan/root2",
+    "description": "Root Two",
     "authors": [
         {
             "name": "Samuel Hilson",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Root1\\": "src/"
+            "Root2\\": "src/"
         }
     }
 }

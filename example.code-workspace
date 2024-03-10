@@ -1,15 +1,17 @@
 {
-	"folders": [
-		{
-			"path": "root1"
-		},
-		{
-			"path": "root2"
-		},
-		{
-			"path": "root3"
-		}
-	],
-	"settings": {
-	}
+  "folders": [
+    {
+      "path": "root1"
+    },
+    {
+      "path": "root2"
+    },
+    {
+      "path": "root3"
+    }
+  ],
+  "settings": {
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
+  }
 }

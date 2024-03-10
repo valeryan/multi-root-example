@@ -1,8 +1,8 @@
 <?php
 /**
- * Root 1 Example
+ * Root 2 Example
  *
- * @package Root1
+ * @package Root2
  * @author  Samuel Hilson <samrhilson@gmail.com>
  * @license MIT
  */
